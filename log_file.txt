@@ -1,0 +1,107 @@
+commit 833183b9e5721302b8b25054257b8de4133f5b57
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Sun Oct 6 20:05:13 2024 -0400
+
+    Add files via upload
+    
+    add uml
+
+commit 36515a826e5fdddabedd9a5d64d253407431200b
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Sun Oct 6 19:59:18 2024 -0400
+
+    Add files via upload
+
+commit ad1f15937cd30fd47886015ff2b606375a83f5c5
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Sun Oct 6 19:58:30 2024 -0400
+
+    Delete junit-platform-console-standalone-1.7.0-M1.jar
+    
+    delete cause corrupted
+
+commit 1954fe7ef374d0133236190fe49fb2cb4a8adda9
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Sun Oct 6 19:53:34 2024 -0400
+
+    Update TypeC.java
+    
+    add type c
+
+commit 4aa93109e19bfc130e003bdf511389118b97bf07
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Sun Oct 6 19:53:02 2024 -0400
+
+    Update TypeB.java
+    
+    add type B
+
+commit ca9a65506c2875e7fb633d678a551cab6f842a3a
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Sun Oct 6 19:52:38 2024 -0400
+
+    Update ThingList.java
+    
+    add ThingList from vscode
+
+commit a751ad6657c9362234251552b53a7e711fe4eed6
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Sun Oct 6 19:52:09 2024 -0400
+
+    Update TypeA.java
+    
+    add type A
+
+commit 358f5b66a13b9ba484edbf8f74ca7531d2b51962
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Sun Oct 6 19:51:36 2024 -0400
+
+    Update Thing.java
+    
+    add code from vscode
+
+commit 4be82a328f2466c12ae405b34ecc0a7b60e1fab9
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Sun Oct 6 19:51:02 2024 -0400
+
+    Update DotChaser.java
+    
+    commit my changes from vscode
+
+commit 5c038a1f9b409945b9a3d01165862ad5eb89db64
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Fri Oct 4 13:44:08 2024 -0400
+
+    Rename junit-platform-console-standalone-1.7.0-M1 (1).jar to junit-platform-console-standalone-1.7.0-M1.jar
+    
+    change name for correct junit compilation
+
+commit c6a47c08c5ea60f10248815d9ccb7a6be31a7f1a
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Wed Oct 2 15:48:09 2024 -0400
+
+    Add files via upload
+    
+    upload junit tester as needed
+
+commit c8e040b26b3310077a3be75c45bc2049305c6780
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Wed Oct 2 15:43:41 2024 -0400
+
+    Add files via upload
+    
+    Adding empty yet newly created java files
+
+commit dab532cd3966091ddd7baef06e66aaa9c0551a0b
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Wed Oct 2 15:40:51 2024 -0400
+
+    Add files via upload
+    
+    Adding lab files
+
+commit e0866f646d3936d584bf210dba0bb2208395e46a
+Author: AlessandroDominici <ale7dominici@gmail.com>
+Date:   Wed Oct 2 15:39:30 2024 -0400
+
+    Initial commit
